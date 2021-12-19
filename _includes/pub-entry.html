@@ -13,7 +13,8 @@
         <a href="{{ post.website }}">[website]</a>
         {% endif %}
         <br>
-        {{ post.author }}<br>
+        {{ post.author | replace: "Hang Zhang", "<u>Hang Zhang</u>" }}
+        <br>
         <em>{{ post.venue }}</em>
         {% if post.extra %}
         <br>

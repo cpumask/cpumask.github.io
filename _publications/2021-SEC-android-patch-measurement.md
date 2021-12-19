@@ -8,7 +8,7 @@ venue: 'In Proceedings of USENIX Security 2021.'
 paperurl: 'https://www.cs.ucr.edu/~zhiyunq/pub/sec21_kernel_patch_measurement.pdf'
 src: 'https://github.com/seclab-ucr/Patchlocator'
 citation:
-author: 'Zheng Zhang, <b>Hang Zhang</b>, Zhiyun Qian, and Billy Lau'
+author: 'Zheng Zhang, Hang Zhang, Zhiyun Qian, and Billy Lau'
 venue_abbr: 'USENIX Security 21'
 selected: true
 ---  

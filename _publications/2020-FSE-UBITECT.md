@@ -8,6 +8,6 @@ venue: 'In Proceedings of the 2020 ACM Joint European Software Engineering Confe
 paperurl: 'https://www.cs.ucr.edu/~zhiyunq/pub/fse20_UBITect.pdf'
 src: 'https://github.com/seclab-ucr/UBITect'
 citation:
-author: 'Yizhuo Zhai, Yu Hao, <b>Hang Zhang</b>, Daimeng Wang, Chengyu Song, Zhiyun Qian, Mohsen Lesani, Srikanth V. Krishnamurthy, Paul Yu'
+author: 'Yizhuo Zhai, Yu Hao, Hang Zhang, Daimeng Wang, Chengyu Song, Zhiyun Qian, Mohsen Lesani, Srikanth V. Krishnamurthy, Paul Yu'
 venue_abbr: 'FSE 20'
 ---  

@@ -8,7 +8,7 @@ venue: 'In Proceedings of IEEE/ACM International Conference on Software Engineer
 paperurl:
 src:
 citation:
-author: 'Yu Hao, <b>Hang Zhang</b>, Guoren Li, Xingyun Du, Zhiyun Qian, Ardalan Amiri Sani'
+author: 'Yu Hao, Hang Zhang, Guoren Li, Xingyun Du, Zhiyun Qian, Ardalan Amiri Sani'
 venue_abbr: 'ICSE 22'
 selected: true
 ---  

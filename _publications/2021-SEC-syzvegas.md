@@ -8,6 +8,6 @@ venue: 'In Proceedings of USENIX Security 2021.'
 paperurl: 'https://www.cs.ucr.edu/~zhiyunq/pub/sec21_syzvegas.pdf'
 src: 'https://github.com/seclab-ucr/SyzVegas'
 citation:
-author: 'Daimeng Wang, Zheng Zhang, <b>Hang Zhang</b>, Zhiyun Qian, Srikanth V. Krishnamurthy, and Nael Abu-Ghazaleh'
+author: 'Daimeng Wang, Zheng Zhang, Hang Zhang, Zhiyun Qian, Srikanth V. Krishnamurthy, and Nael Abu-Ghazaleh'
 venue_abbr: 'USENIX Security 21'
 ---  
