@@ -1,0 +1,23 @@
+{% include base_path %}
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 115px; float: left;"> {{ post.venue_abbr }} </div>
+    <div style="margin-left: 120px;">
+        <b>{{ post.title }}</b>
+        {% if post.paperurl %}
+        <a href="{{ post.paperurl }}">[paper]</a>
+        {% endif %}
+        {% if post.src %}
+        <a href="{{ post.src }}">[code]</a>
+        {% endif %}
+        {% if post.website %}
+        <a href="{{ post.website }}">[website]</a>
+        {% endif %}
+        <br>
+        {{ post.author }}<br>
+        <em>{{ post.venue }}</em>
+        {% if post.extra %}
+        <br>
+        {{ post.extra }}
+        {% endif %}
+    </div>
+</div>
