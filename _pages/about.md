@@ -21,7 +21,7 @@ My past research applies different approaches (e.g., manual reverse engineering,
 program analysis) to analyze different code layers (e.g., binary, IR, and source code), revealing multiple kernel security 
 vulnerabilities and resulting in open-source security tools attracting interest from both academia and industry.  
 
-**Prospective Students: **
+<span style="color:red;">Prospective Students: </span>
 I am actively looking for Ph.D. students who are passionate about computer security research. 
 If you enjoy hacking, feel free to drop me an email with your CV and a brief self-introduction! 
 Though not necessary, background in program analysis, reverse engineering, CTF, bug hunting, 
@@ -35,8 +35,7 @@ would be advantageous.
   {% endif %}
 {% endfor %}
 
-## Selected Professional Service
-======
+## Selected Professional Service  
 * Journal Reviewer
   * IEEE Transactions on Software Engineering (TSE) 2023
   * Security and Communication Networks (SCN) 2022
