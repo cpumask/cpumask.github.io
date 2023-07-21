@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hang Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Hang Zhang"
-description              : &description "Postdoc Researcher @ GaTech"
+description              : &description "Assistant Professor @ IUB"
 url                      : "https://hangz.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cpumask/cpumask.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hang Zhang"
   avatar           : "profile.jpg"
-  bio              : "Postdoc Researcher @ GaTech"
-  location         : "Atlanta, GA, USA"
+  bio              : "Assistant Professor @ IUB"
+  location         : "Bloomington, IN, USA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rX6AIFcAAAAJ"
-  email            : "hzhang420@gatech.edu"
+  email            : "hz64@iu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
