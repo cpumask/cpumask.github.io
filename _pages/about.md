@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an assistant professor at the Luddy School of Informatics, Indiana University Bloomington. 
+Welcome! I am an assistant professor in the Computer Science Department at Indiana University Bloomington. 
 Before joining IUB, I obtained my Ph.D. degree from [UC Riverside](https://www.ucr.edu) 
 under the supervision of [Prof. Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/), 
 and received my postdoc training at [Georgia Tech](https://www.gatech.edu), 
