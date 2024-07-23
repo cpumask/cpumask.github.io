@@ -37,12 +37,14 @@ would be advantageous.
 
 ## Selected Professional Service  
 * Journal Reviewer
+  * IEEE Transactions on Dependable and Secure Computing (TDSC) 2024
   * IEEE Transactions on Software Engineering (TSE) 2023
   * Security and Communication Networks (SCN) 2022
   * ACM Transactions on Privacy and Security (TOPS) 2021
 * Conference TPC Member
+  * ACM CCS 2024 
   * IEEE Security and Privacy (Oakland) 2024
-  * EAI SecureComm 2023
+  * EAI SecureComm 2023 - 2024
 * Sub-Reviewer
   * IEEE Security and Privacy (Oakland) 2018 - 2022
   * USENIX Security 2020, 2022 - 2023
