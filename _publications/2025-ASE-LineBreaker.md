@@ -8,7 +8,7 @@ venue: 'The 40th IEEE/ACM International Conference on Automated Software Enginee
 paperurl:
 src:
 citation:
-author: 'Hongbo Chen, Yifan Zhang, Xing Han, Tianhao Mao, Huanyao Rong, Yuheng Zhang, Hang Zhang, XiaoFeng Wang, Luyi Xing, Xun Chen'
+author: 'Hongbo Chen, Yifan Zhang, Xing Han, Tianhao Mao, Huanyao Rong, Yuheng Zhang, XiaoFeng Wang, Luyi Xing, Xun Chen, Hang Zhang'
 venue_abbr: 'ASE 25'
 selected: false
 ---  
